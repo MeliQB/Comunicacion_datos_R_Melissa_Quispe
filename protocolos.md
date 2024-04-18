@@ -7,8 +7,7 @@ PREGUNTAS
  </p>
  
 <p align="justify">
-  Los protocolos varían dependiendo a quién va dirgido el mensaje, el emisor debe de identificar bien a su receptor (amigos, padres o profesores), 
-  es decir, si se envía el mismo mensaje a los 3 tipos de personas esto puede ser mal interpretada.
+  
  </p> 
  
 <p align="justify">
@@ -17,7 +16,7 @@ PREGUNTAS
  </p> 
  
 <p align="justify">
-  Podríamos tener distintos tipos de consecuencias como una mala interpretacion del mensaje, distintos idiomas, entre otros.
+  
  </p>
  
 <p align="justify">
@@ -27,6 +26,5 @@ PREGUNTAS
  </p>
  
 <p align="justify">
-  No, en le contexto de amigos y al tener casi las  mismas edades los protocolos que usamos para  la comunicción no hay malas interpretaciones de 
-  mensajes .
+  
  </p>
