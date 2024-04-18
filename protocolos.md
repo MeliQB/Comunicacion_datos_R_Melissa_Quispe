@@ -1,7 +1,7 @@
-##PREGUNTAS
+PREGUNTAS
 
 <p align="justify">
-  #1. Ahora que anotaste los protocolos que usan el enviar y leer mensajes de texto, ¿crees que estos 
+  1. Ahora que anotaste los protocolos que usan el enviar y leer mensajes de texto, ¿crees que estos 
   protocolos serían los mismos si estuviera escribiendo a amigos que si estuviera escribiendo a 
   sus padres o profesores? Explica tu respuesta.
  </p>
@@ -12,7 +12,7 @@
  </p> 
  
 <p align="justify">
-  #2. ¿Cuáles crees que serían las consecuencias si no hubiera estándares de protocolo acordados 
+  2. ¿Cuáles crees que serían las consecuencias si no hubiera estándares de protocolo acordados 
   para los diferentes métodos de comunicación?
  </p> 
  
@@ -21,7 +21,7 @@
  </p>
  
 <p align="justify">
-  #3. Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus 
+  3. Comparte las reglas de protocolo con tus compañeros de equipo. ¿Hay diferencias entre tus 
   protocolos y los de ellos? Si es así, ¿podrían estas diferencias producir malentendidos de los 
   mensajes?
  </p>
