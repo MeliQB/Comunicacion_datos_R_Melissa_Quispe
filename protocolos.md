@@ -1,9 +1,9 @@
 | Requisito del| Encabezado 2 | Encabezado 1 |
-|  protocolo   | 
+|  protocolo   |              |              |
 | ------------ | ------------ | ------------ | 
-| Celda 1,1    | Celda 1,2    |
-| Celda 1,1    | Celda 1,2    |
-| Celda 2,1    | Celda 2,2    |
+| Celda 1,1    | Celda 1,2    | jklkjh       |
+| Celda 1,1    | Celda 1,2    |              |
+| Celda 2,1    | Celda 2,2    |              |
 
 
 PREGUNTAS
