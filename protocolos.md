@@ -1,11 +1,4 @@
 
-|  protocolo   |   Cómo se implementa en su protocolo |
-| ------------ | ------------------------------------ | 
-| Un emisor    | Celda 1,2         |
-| Celda 1,1    | Celda 1           |
-| Celda 2,1    | Celda             |
-
-
 PREGUNTAS
 
 <p align="justify">
@@ -15,7 +8,8 @@ PREGUNTAS
  </p>
  
 <p align="justify">
-  
+  Los mensajes a amigos, padres o profesores, los protocolos subyacentes que facilitan la m 
+  transmisión de datos a través de redes seguirán siendo los mismos.
  </p> 
  
 <p align="justify">
@@ -24,7 +18,9 @@ PREGUNTAS
  </p> 
  
 <p align="justify">
-  
+  Si no hubiera estándares de protocolo acordados para los diferentes métodos de comunicación, las 
+  consecuencias podrían ser significativas. Algunas de las posibles consecuencias serían: 
+  Incompatibilidad, caos de redl seguridad comprometida, entre otros.
  </p>
  
 <p align="justify">
@@ -34,5 +30,7 @@ PREGUNTAS
  </p>
  
 <p align="justify">
-  
+  Al compartir reglas de protocolo con mis compañeros de equipo, es importante reconocer las 
+  posibles diferencias en los protocolos individuales y establecer reglas que 
+  se adapten a las necesidades colectivas, evitando así malentendidos en la comunicación. 
  </p>
