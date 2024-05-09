@@ -1,0 +1,36 @@
+def servidor(mensaje):
+    """Procesa los mensajes enviados por el cliente según el comando especificado."""
+    comando, _, contenido = mensaje.partition(':')
+    comando = comando.strip().lower()  # Convertir a minúsculas para evitar errores de caso
+    contenido = contenido.strip()
+
+    if comando == 'eco':
+        return contenido
+    elif comando == 'reverso':
+        return contenido[::-1]
+    elif comando == 'sumar':
+        try:
+            # Evaluar la expresión matemática
+            resultado = eval(contenido)
+            return str(resultado)
+        except Exception as e:
+            return f"Error al evaluar la expresión: {str(e)}"
+    elif comando == 'mayusculas':
+        return contenido.upper()
+    else:
+        return "Comando no reconocido."
+
+
+    def cliente(mensaje):
+    """Envía mensajes al servidor y procesa la respuesta."""
+    respuesta = servidor(mensaje)
+    print(f"Servidor dice: {respuesta}")
+
+
+  def main():
+    cliente("eco: Hola Mundo")
+    cliente("reverso: Hola Mundo")
+    cliente("sumar: 123 + 456")  # Este debería dar un error ya que no está implementado
+
+if __name__ == "__main__":
+    main()
