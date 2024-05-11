@@ -1,2 +1,3 @@
 ## LA CREACIÓN DE UNA RED SIMPLE
 
+![](Imágenes/imagen_2024-05-11_040604510.png)
