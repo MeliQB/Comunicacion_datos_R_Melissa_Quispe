@@ -22,9 +22,6 @@ Sí, el punto de acceso inalámbrico (AP) empaqueta la información como marcos 
 
 6.	**¿Se perdió alguna dirección MAC o IP durante la transferencia inalámbrica?**
 Sí se perdió la información un 25% en el envió a la laptop Porque el mensaje que se envía es a larga distancia, la información tendera a perderse en algún punto.
-<p align="light">
-  <img src="Imágenes/imagen1.jpg" />
-</p>
 
 7.	**¿Cuál fue la capa OSI más alta que utilizaron el hub y el punto de acceso?**
 La capa más baja que utilizaron es la Capa 1, que corresponde a la Capa Física del modelo OSI.
