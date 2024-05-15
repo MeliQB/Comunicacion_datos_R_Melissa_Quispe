@@ -38,7 +38,7 @@ b. Usa jeka para la contraseña del modo EXEC privilegiado.
    
 a. Haz clic en S2 y luego en la ficha CLI.
 b. Introduce el comando correcto para configurar el nombre de host S1.
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134351.png)
 
 ## Configura la consola y las contraseñas cifradas de modo EXEC privilegiado.
   
@@ -46,7 +46,7 @@ a. Usa checha como la contraseña de la consola.
 b. Usa jeka para la contraseña del modo EXEC privilegiado.
 ![]()
 
-## Verifica la configuración de contraseñas para el S1.
+## Verifica la configuración de contraseñas para el S2.
 
 ### Pregunta:
 
@@ -55,13 +55,13 @@ b. Usa jeka para la contraseña del modo EXEC privilegiado.
 ![]()
 
 ## Configura un aviso de MOTD.
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134420.png)
 
 ## Guarda el archivo de configuración en la NVRAM.
 
 ### Pregunta:
 ¿Qué comando emite para realizar este paso?
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134428.png)
 
 
 4. Configura la interfaz de administración de switches
