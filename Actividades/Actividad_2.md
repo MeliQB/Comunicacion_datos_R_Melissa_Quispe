@@ -65,4 +65,10 @@ Para completar este laboratorio vamos a utilizar Cisco Packet Tracer.
 ![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134428.png)
 
 
-4. Configura la interfaz de administración de switches
+## CONFIGURAR LAS PC
+Configura la PC1 y la PC2 con direcciones IP. 
+
+1. Haz clic en PC1 y luego en la ficha Escritorio. 
+2. Haz clic en Configuración de IP. En la tabla de direccionamiento anterior, puede ver que la 
+dirección IP para la PC1 es 192.168.1.1 y la máscara de subred es 255.255.255.0. 
+Introduzca esta información para la PC1 en la ventana Configuración de IP. 
