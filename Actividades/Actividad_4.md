@@ -106,7 +106,8 @@ S1# show run
 **¿Qué se muestra como contraseña de enable secret?** <br>$1$mERr$ILwq/b7kc.7X/ejA4Aosn0<br><br>
 **¿Por qué la contraseña de enable secret se ve diferente de lo que se configuró?** <br>Porque la contraseña está encriptada.
 ### Encripta las contraseñas de consola y de enable
-Como notó en el paso anterior, la contraseña enable secret estaba encriptada, pero las contraseñas enable y console todavía estaban en texto plano. Ahora encriptamos estas contraseñas de texto no cifrado con el comando service password-encryption.
+La contraseña enable secret estaba encriptada, pero las contraseñas enable y console todavía estaban en texto plano.
+Encriptamos estas contraseñas de texto no cifrado con el comando service password-encryption.
 ```
 S1# config t
 S1(config)# service password-encryption
@@ -114,9 +115,9 @@ S1(config)# exit
 ```
 
 **Si configuras más contraseñas en el switch, ¿se mostrarán como texto no cifrado o en forma cifrada en el archivo de configuración? Explica.**
-Las contraseñas se mostrarán en forma cifrada debido a que el comando de configuración se ejecuta solo una vez y automáticamente encripta todas las contraseñas ingresadas.
+Las contraseñas se mostrarán en forma cifrada, porque, el comando de configuración se ejecuta solo una vez y las contrasenas posteriores se autoencriptan.
 
 ## Configura S2:
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/e7ba2777a716b65c1bfcee2bc8f0d2ea2694e2f0/Im%C3%A1genes/WhatsApp%20Image%202024-05-15%20at%204.38.38%20PM.jpeg)
 
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/e7ba2777a716b65c1bfcee2bc8f0d2ea2694e2f0/Im%C3%A1genes/WhatsApp%20Image%202024-05-15%20at%204.38.54%20PM.jpeg)
