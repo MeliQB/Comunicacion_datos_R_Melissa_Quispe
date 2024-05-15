@@ -72,9 +72,5 @@ Configura la PC1 y la PC2 con direcciones IP.
 2. Haz clic en Configuración de IP. En la tabla de direccionamiento anterior, puede ver que la 
 dirección IP para la PC1 es 192.168.1.1 y la máscara de subred es 255.255.255.0. 
 Introduzca esta información para la PC1 en la ventana Configuración de IP. 
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/dc8b7153a129988e6cd6dbc0a5fbe5968627c771/Im%C3%A1genes/imagen_2024-05-15_162042446.png)
 
-### Configura la interfaz de administración de switches
-
-
-¿Por qué debe introducir el comando no shutdown?
