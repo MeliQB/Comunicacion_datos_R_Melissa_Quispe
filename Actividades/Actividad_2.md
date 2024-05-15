@@ -6,14 +6,14 @@ Para completar este laboratorio vamos a utilizar Cisco Packet Tracer.
 ## 1. Realiza una configuración básica en el S1 y el S2
    Configura un nombre de host en el S1.
    
-a. Haz clic en S1 y luego en la ficha CLI.
-b. Introduce el comando correcto para configurar el nombre de host S1.
+1. Haz clic en S1 y luego en la ficha CLI.
+2. Introduce el comando correcto para configurar el nombre de host S1.
 ![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/0e0db3a1c276c90bbd8d3972bc467a1077263542/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20130241.png)
 
 ## Configura la consola y las contraseñas cifradas de modo EXEC privilegiado.
   
-a. Usa checha como la contraseña de la consola.
-b. Usa jeka para la contraseña del modo EXEC privilegiado.
+1. Usa checha como la contraseña de la consola.
+2. Usa jeka para la contraseña del modo EXEC privilegiado.
 ![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/0e0db3a1c276c90bbd8d3972bc467a1077263542/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20130315.png)
 
 ## Verifica la configuración de contraseñas para el S1.
@@ -36,15 +36,16 @@ b. Usa jeka para la contraseña del modo EXEC privilegiado.
 ## 2. Repita para el S2
 ### Configura un nombre de host en el S2.
    
-a. Haz clic en S2 y luego en la ficha CLI.
-b. Introduce el comando correcto para configurar el nombre de host S1.
+1. Haz clic en S2 y luego en la ficha CLI.
+2. Introduce el comando correcto para configurar el nombre de host S2.
 ![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134351.png)
 
 ## Configura la consola y las contraseñas cifradas de modo EXEC privilegiado.
   
-a. Usa checha como la contraseña de la consola.
-b. Usa jeka para la contraseña del modo EXEC privilegiado.
-![]()
+1. Usa checha como la contraseña de la consola.
+2. Usa jeka para la contraseña del modo EXEC privilegiado.
+
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/24b89734cd79de88658a21709fb3917ca02850cb/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134406.png)
 
 ## Verifica la configuración de contraseñas para el S2.
 
@@ -52,7 +53,7 @@ b. Usa jeka para la contraseña del modo EXEC privilegiado.
 
 ¿Cómo puedes verificar que ambas contraseñas se hayan configurado correctamente?
 
-![]()
+![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/24b89734cd79de88658a21709fb3917ca02850cb/Im%C3%A1genes/imagen_2024-05-15_135219710.png)
 
 ## Configura un aviso de MOTD.
 ![](https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/5ef54234214bb77273f56fc10441d6d966e9493e/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-15%20134420.png)
