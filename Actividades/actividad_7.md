@@ -30,6 +30,9 @@ Debido a que el tiempo en el modo de simulación se desencadena por eventos, deb
 d. Haz clic en Capturar/Avanzar cuatro veces. Deberías haber cuatro eventos en la Lista de eventos.
 
 **Observa la página del navegador web del cliente web. ¿Cambió algo?**
+
+<p aling="center">
+   <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/6ddb1fd2c7fe24486ef83ab6974b22cb25a6c593/Im%C3%A1genes/imagen_2024-05-20_234207557.png" whidth=600>
 </p>
 
 ### Explora el contenido del paquete HTTP
