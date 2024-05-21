@@ -27,7 +27,7 @@ direcciones.
 2. Configura la dirección IP, la máscara de subred y los parámetros del gateway predeterminado en la PC-B.
 3. En una ventana con el símbolo del sistema en la PC-A, haga ping a la PC-B.
 <p align= "center">
-  <img src="" width="600">
+  <img src="https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/d7a42a4aeb28f1d856a14369aded3487e0566445/Im%C3%A1genes/imagen_2024-05-20_232531634.png" width="600">
 </p>
 
 ### Configura el router
