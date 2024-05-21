@@ -8,6 +8,9 @@
 2. Selecciona HTTP en Filtros de lista de eventos.
 2.1. Es posible que HTTP ya sea el único evento visible. Si es necesario, haz clic en el botón Editar filtros en la parte inferior del panel de simulación para mostrar los eventos visibles disponibles. Alterna la casilla de verificación Mostrar todo/ninguno y observa cómo las casillas de verificación se desactivan y se activan, o viceversa, según el estado actual.
 2.2. Haz clic en la casilla de verificación Mostrar todo/ninguno hasta que se desactiven todas las casillas y luego selecciona HTTP. Haz clic en la X situada en la esquina superior derecha de la ventana para cerrar la ventana Editar filtros. Los eventos visibles ahora deben mostrar sólo HTTP.
+   <p aling = "center">
+     <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/3eb22f5a9db2c3fc6707745f8e6c78bcd99997e0/Im%C3%A1genes/imagen_2024-05-20_233615609.png" width="600">
+     </p>
 </p>
 
 
