@@ -50,3 +50,11 @@ direcciones.
 13. Configura el reloj en el router.<br>
 **Nota:** Utiliza el signo de interrogación (?) para poder determinar la secuencia correcta de
 parámetros necesarios para ejecutar este comando.
+
+
+## Preguntas
+#### Si la interfaz G0/0/1 se mostrará administrativamente intactiva, ¿qué comando de configuración de interfaz usaría para activar la interfaz?
+El comando *no shutdown*.
+
+#### ¿Qué ocurriría si hubiera configurado incorrectamente la interfaz G0/0/1 en el router con una dirección IP 192.168.1.2?
+PC-A no podría hacer ping a PC-B, ya que esta última hubiese estado en una red diferente de PC-A, lo que requeriría que routeer predeterminado rotee los paquetes.
