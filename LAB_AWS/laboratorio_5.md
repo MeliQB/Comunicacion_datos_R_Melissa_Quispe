@@ -39,7 +39,8 @@ Podemos visualizar el contenido del documento subido anteriormente index.html
 
 #### Crear una distribución de CloudFront para servir al sitio web
 
-Creamos uan distribución de Amazon CloudFront para servir al sitio web
+Creamos uan distribución de Amazon CloudFront para servir al sitio web.
+
 Luego creamos un nuevo archivo HTML para probar la distribución subiendo una imagen al bucket.
 <p aling = "center">
   <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/b851e0507fd46e7f7ca56e6fad25e40008eb8aab/Im%C3%A1genes/Captura%20desde%202024-05-29%2009-30-23.png">
