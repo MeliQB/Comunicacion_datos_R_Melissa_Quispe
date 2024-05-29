@@ -13,6 +13,7 @@ Para poder visualizar la instancia lanzada se habílitó la IP pública, además
 que se utiliza para las solicitudes web HTTP. Por ello se cambiaron las reglas de entrada con:
 
 TIPO: HTTP
+
 FUENTE: Cualquier lugar IPv4
 
 Actualizamos la dirección IP y la pagína nos muestra lo siguiente:
