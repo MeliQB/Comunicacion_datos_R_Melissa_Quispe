@@ -2,29 +2,10 @@
 
 #### Comenzar a crear la instancia y asignarle un nombre
 
+<p aling = "center">
+  <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/cf86908cf0a8a1dbe7d662cb80b78fc2f753c134/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-29%20165611.png">
+</p>
 
-#### Imágenes de aplicación y SO
-
-
-#### Elegir el tipo de instancia
-
-#### Seleccionar un par de claves
-
-#### Configuración de red
-
-#### Configurar el almacenamiento
-
-#### Detalles avanzados 
-
-#### Revisar la instancia y lanzarla 
-
-#### Acceder a la instancia de EC2
-
-#### Actualizar el grupo de seguridad 
-
-#### Crear una regla de entrada
-
-#### Probar la regla
-
-#### Adjuntar un volumen de EBS  a la instancia EC2
-
+<p aling = "center">
+  <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/ddf3b15329e54b8ee82397efb5f536cdf3b13932/Im%C3%A1genes/Captura%20de%20pantalla%202024-05-29%20171356.png">
+</p>
