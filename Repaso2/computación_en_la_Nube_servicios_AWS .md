@@ -16,5 +16,5 @@ Costos:La red on-premises requiere inversión inicial para el hardware, software
 
 *Costos:* La red on-premises requiere inversión inicial para el hardware, software y mantenimiento. La red corporativa, trabaja con modelo de pago por uso, sin costos de infraestructura inicial. 
 <p aling = 'center'>
-   <img src = "">
+   <img src = "https://github.com/MeliQB/Comunicacion_datos_R_Melissa_Quispe/blob/41504724ac94da060490f1eea7f54eb52c708e91/Im%C3%A1genes/Captura%20desde%202024-06-18%2010-15-16.png">
 </p>
