@@ -2,7 +2,7 @@
 
 #### Preguntas:
 
-*1: Bases dedatos administradas vs. no Administrativas*
+*1: Bases de datos administradas vs. no Administrativas*
 
 *2: Servicios de bases de datos para requisitos especilizados*
 
