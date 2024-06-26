@@ -15,8 +15,8 @@ La escalabilidad vertical tiene la ventaja de ser relativamente simple de implem
 
 
 1. Enfoque:
-   - Vertical: Aumentar la capacidad de un único recurso (por ejemplo, una        instancia de EC2 o una base de datos RDS).
-   - Horizontal: Agregar más recursos (por ejemplo, más instancias de EC2 o       bases de datos RDS).
+   - Vertical: Aumentar la capacidad de un único recurso.
+   - Horizontal: Agregar más recursos.
 
 2. Límite de escalabilidad:
    - Vertical: Hay un límite en la capacidad máxima que puede alcanzar un         único recurso.
