@@ -1,13 +1,13 @@
 ## Simulación de escalabilidad vertical y horizontal
 
-Escalabilidad Horizontal:  se refiere a agregar más recursos (como instancias de EC2 o bases de datos) para distribuir la carga de trabajo. Esto permite aumentar la capacidad de manera casi ilimitada, agregando más unidades de cómputo o almacenamiento según sea necesario.
+**Escalabilidad Horizontal:**  se refiere a agregar más recursos (como instancias de EC2 o bases de datos) para distribuir la carga de trabajo. Esto permite aumentar la capacidad de manera casi ilimitada, agregando más unidades de cómputo o almacenamiento según sea necesario.
 
 En AWS, la escalabilidad horizontal se puede lograr mediante el uso de servicios como Auto Scaling Groups, Application Load Balancer o Amazon Elastic Kubernetes Service (EKS). Estos servicios permiten agregar o quitar recursos de manera automatizada en función de la demanda.
 
 La escalabilidad horizontal tiene la ventaja de ser más escalable a largo plazo, pero puede requerir una mayor complejidad en la arquitectura de la aplicación para manejar la distribución de carga de trabajo.
 
 
-Escalabillidad Vertical:  se refiere a aumentar la capacidad de un recurso individual aumentando sus recursos internos, como la CPU, la memoria RAM o el almacenamiento. En AWS, esto se puede lograr, por ejemplo, cambiando a una instancia de EC2 de mayor tamaño o actualizando el plan de servicio de una base de datos RDS.
+**Escalabillidad Vertical:**  se refiere a aumentar la capacidad de un recurso individual aumentando sus recursos internos, como la CPU, la memoria RAM o el almacenamiento. En AWS, esto se puede lograr, por ejemplo, cambiando a una instancia de EC2 de mayor tamaño o actualizando el plan de servicio de una base de datos RDS.
 
 La escalabilidad vertical tiene la ventaja de ser relativamente simple de implementar y no requiere cambios en la arquitectura de la aplicación. Sin embargo, tiene un límite en la capacidad máxima que puede alcanzar un único recurso.
 
