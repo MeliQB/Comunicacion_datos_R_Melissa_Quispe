@@ -2,7 +2,7 @@
 
 **Escalabilidad Horizontal:**  se refiere a agregar más recursos (como instancias de EC2 o bases de datos) para distribuir la carga de trabajo. Esto permite aumentar la capacidad de manera casi ilimitada, agregando más unidades de cómputo o almacenamiento según sea necesario.
 
-En AWS, la escalabilidad horizontal se puede lograr mediante el uso de servicios como Auto Scaling Groups, Application Load Balancer o Amazon Elastic Kubernetes Service (EKS). Estos servicios permiten agregar o quitar recursos de manera automatizada en función de la demanda.
+En AWS, la escalabilidad horizontal se puede lograr mediante el uso de servicios como Auto Scaling Groups, Amazon Elastic Kubernetes Service (EKS). Estos servicios permiten agregar o quitar recursos de manera automatizada en función de la demanda.
 
 La escalabilidad horizontal tiene la ventaja de ser más escalable a largo plazo, pero puede requerir una mayor complejidad en la arquitectura de la aplicación para manejar la distribución de carga de trabajo.
 
