@@ -6,7 +6,7 @@ class Server:
         """
         self.cpu_capacity = cpu_capacity
         self.memory_capacity = memory_capacity
-        self.current_load = 0
+        self.current_load = 0  #carga del trabajo actual del servidor
 
     def scale_up(self, additional_cpu, additional_memory):
         """
@@ -51,10 +51,10 @@ class ServerCluster:
 # Ejemplo de uso
 server1 = Server(cpu_capacity=4, memory_capacity=8)
 server2 = Server(cpu_capacity=4, memory_capacity=8)
-cluster = ServerCluster()
+cluster = ServerCluster() #creamos un cluster de servidores y se agregan los dos servidores a él.
 cluster.add_server(server1)
 cluster.add_server(server2)
-cluster.distribute_load(10)
+cluster.distribute_load(10) #se distribuye una carga de trabajo de 10 unidades
 
 print(f"Server 1 CPU: {server1.cpu_capacity}, Memory: {server1.memory_capacity}, Current Load: {server1.current_load}")
 print(f"Server 2 CPU: {server2.cpu_capacity}, Memory: {server2.memory_capacity}, Current Load: {server2.current_load}")
